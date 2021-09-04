@@ -1,8 +1,8 @@
-# Accuracy of CCS811 air quality sensor compared to two NDIR Sensors: MH-Z19 and CO2Meter
+# Accuracy of CCS811 air quality sensor compared to two NDIR Sensors: MH-Z19 and TFA CO2Meter review
 
 I was curious how accurate the CCS811 air quality sensor is. So I compared it to two NDIR CO2 sensors.
 
-## MH-Z19B CO2 Sensor vs TFA AirCO2ntrol / CO2 Meter vs CCS811 Test
+## MH-Z19B CO2 Sensor vs TFA AirCO2ntrol / CO2 Meter vs CCS811 Test / review
 
 As NDIR sensors I used the quite cheap (about 20 $) MH-Z19B sensor, Link https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19b-co2-ver1_0.pdf
 Because measurement differed a lot compared to CCS811 I added another NDIR sensor, just to make sure this cheap sensor works as expected. So this is also a small review of the MH-Z19B CO2 sensor.
